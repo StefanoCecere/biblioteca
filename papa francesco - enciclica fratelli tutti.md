@@ -1,3 +1,10 @@
+---
+title: Fratelli Tutti
+author: Papa Francesco
+date: 201003
+original: http://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
+---
+
 # FRATELLI TUTTI
 LETTERA ENCICLICA
 DEL SANTO PADRE FRANCESCO
@@ -5,7 +12,7 @@ SULLA FRATERNITÀ E L'AMICIZIA SOCIALE
 
 1. «Fratelli tutti»,[1] scriveva San Francesco d’Assisi per rivolgersi a tutti i fratelli e le sorelle e proporre loro una forma di vita dal sapore di Vangelo. Tra i suoi consigli voglio evidenziarne uno, nel quale invita a un amore che va al di là delle barriere della geografia e dello spazio. Qui egli dichiara beato colui che ama l’altro «quando fosse lontano da lui, quanto se fosse accanto a lui».[2] Con queste poche e semplici parole ha spiegato l’essenziale di una fraternità aperta, che permette di riconoscere, apprezzare e amare ogni persona al di là della vicinanza fisica, al di là del luogo del mondo dove è nata o dove abita.
 
-2. Questo Santo dell’amore fraterno, della semplicità e della gioia, che mi ha ispirato a scrivere l’Enciclica Laudato si’, nuovamente mi motiva a dedicare questa nuova Enciclica alla fraternità e all’amicizia sociale. Infatti San Francesco, che si sentiva fratello del sole, del mare e del vento, sapeva di essere ancora più unito a quelli che erano della sua stessa carne. Dappertutto seminò pace e camminò accanto ai poveri, agli abbandonati, ai malati, agli scartati, agli ultimi.
+2. Questo Santo dell’amore fraterno, della semplicità e della gioia, che mi ha ispirato a scrivere l’Enciclica [Laudato si’](http://w2.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html), nuovamente mi motiva a dedicare questa nuova Enciclica alla fraternità e all’amicizia sociale. Infatti San Francesco, che si sentiva fratello del sole, del mare e del vento, sapeva di essere ancora più unito a quelli che erano della sua stessa carne. Dappertutto seminò pace e camminò accanto ai poveri, agli abbandonati, ai malati, agli scartati, agli ultimi.
 
 ## Senza frontiere
 
@@ -149,7 +156,7 @@ Senza dignità umana sulle frontiere
 
 56. Tutto ciò che ho menzionato nel capitolo precedente è più di un’asettica descrizione della realtà, poiché «le gioie e le speranze, le tristezze e le angosce degli uomini d’oggi, dei poveri soprattutto e di tutti coloro che soffrono, sono pure le gioie e le speranze, le tristezze e le angosce dei discepoli di Cristo, e nulla vi è di genuinamente umano che non trovi eco nel loro cuore».[53] Nell’intento di cercare una luce in mezzo a ciò che stiamo vivendo, e prima di impostare alcune linee di azione, intendo dedicare un capitolo a una parabola narrata da Gesù duemila anni fa. Infatti, benché questa Lettera sia rivolta a tutte le persone di buona volontà, al di là delle loro convinzioni religiose, la parabola si esprime in modo tale che chiunque di noi può lasciarsene interpellare.
 
-«In quel tempo, un dottore della Legge si alzò per mettere alla prova Gesù e chiese: “Maestro, che cosa devo fare per ereditare la vita eterna?”.  Gesù gli disse: “Che cosa sta scritto nella Legge? Come leggi?”. Costui rispose: “Amerai il Signore tuo Dio con tutto il tuo cuore, con tutta la tua anima, con tutta la tua forza e con tutta la tua mente, e il tuo prossimo come te stesso”. Gli disse: “Hai risposto bene; fa’ questo e vivrai”. Ma quello, volendo giustificarsi, disse a Gesù: “E chi è mio prossimo?”. Gesù riprese: “Un uomo scendeva da Gerusalemme a Gerico e cadde nelle mani dei briganti, che gli portarono via tutto, lo percossero a sangue e se ne andarono, lasciandolo mezzo morto. Per caso, un sacerdote scendeva per quella medesima strada e, quando lo vide, passò oltre. Anche un levita, giunto in quel luogo, vide e passò oltre. Invece un Samaritano, che era in viaggio, passandogli accanto, vide e ne ebbe compassione. Gli si fece vicino, gli fasciò le ferite, versandovi olio e vino; poi lo caricò sulla sua cavalcatura, lo portò in un albergo e si prese cura di lui. Il giorno seguente, tirò fuori due denari e li diede all’albergatore, dicendo: ‘Abbi cura di lui; ciò che spenderai in più, te lo pagherò al mio ritorno’. Chi di questi tre ti sembra sia stato prossimo di colui che è caduto nelle mani dei briganti?”. Quello rispose: “Chi ha avuto compassione di lui”. Gesù gli disse: “Va’ e anche tu fa’ così”» (Lc 10,25-37).
+_«In quel tempo, un dottore della Legge si alzò per mettere alla prova Gesù e chiese: “Maestro, che cosa devo fare per ereditare la vita eterna?”.  Gesù gli disse: “Che cosa sta scritto nella Legge? Come leggi?”. Costui rispose: “Amerai il Signore tuo Dio con tutto il tuo cuore, con tutta la tua anima, con tutta la tua forza e con tutta la tua mente, e il tuo prossimo come te stesso”. Gli disse: “Hai risposto bene; fa’ questo e vivrai”. Ma quello, volendo giustificarsi, disse a Gesù: “E chi è mio prossimo?”. Gesù riprese: “Un uomo scendeva da Gerusalemme a Gerico e cadde nelle mani dei briganti, che gli portarono via tutto, lo percossero a sangue e se ne andarono, lasciandolo mezzo morto. Per caso, un sacerdote scendeva per quella medesima strada e, quando lo vide, passò oltre. Anche un levita, giunto in quel luogo, vide e passò oltre. Invece un Samaritano, che era in viaggio, passandogli accanto, vide e ne ebbe compassione. Gli si fece vicino, gli fasciò le ferite, versandovi olio e vino; poi lo caricò sulla sua cavalcatura, lo portò in un albergo e si prese cura di lui. Il giorno seguente, tirò fuori due denari e li diede all’albergatore, dicendo: ‘Abbi cura di lui; ciò che spenderai in più, te lo pagherò al mio ritorno’. Chi di questi tre ti sembra sia stato prossimo di colui che è caduto nelle mani dei briganti?”. Quello rispose: “Chi ha avuto compassione di lui”. Gesù gli disse: “Va’ e anche tu fa’ così”» (Lc 10,25-37)._
 
 ### Lo sfondo
 
@@ -163,23 +170,23 @@ Senza dignità umana sulle frontiere
 
 61. C’è una motivazione per allargare il cuore in modo che non escluda lo straniero, e la si può trovare già nei testi più antichi della Bibbia. È dovuta al costante ricordo del popolo ebraico di aver vissuto come straniero in Egitto:
 
-«Non molesterai il forestiero né l’opprimerai, perché voi siete stati forestieri in terra d’Egitto» (Es 22,20).
+_«Non molesterai il forestiero né l’opprimerai, perché voi siete stati forestieri in terra d’Egitto» (Es 22,20)._
 
-«Non opprimerai il forestiero: anche voi conoscete la vita del forestiero, perché siete stati forestieri in terra d’Egitto» (Es 23,9).
+_«Non opprimerai il forestiero: anche voi conoscete la vita del forestiero, perché siete stati forestieri in terra d’Egitto» (Es 23,9)._
 
-«Quando un forestiero dimorerà presso di voi nella vostra terra, non lo opprimerete. Il forestiero dimorante fra voi lo tratterete come colui che è nato tra voi; tu l’amerai come te stesso, perché anche voi siete stati forestieri in terra d’Egitto» (Lv 19,33-34).
+_«Quando un forestiero dimorerà presso di voi nella vostra terra, non lo opprimerete. Il forestiero dimorante fra voi lo tratterete come colui che è nato tra voi; tu l’amerai come te stesso, perché anche voi siete stati forestieri in terra d’Egitto» (Lv 19,33-34)._
 
-«Quando vendemmierai la tua vigna, non tornerai indietro a racimolare. Sarà per il forestiero, per l’orfano e per la vedova. Ricordati che sei stato schiavo nella terra d’Egitto» (Dt 24,21-22).
+_«Quando vendemmierai la tua vigna, non tornerai indietro a racimolare. Sarà per il forestiero, per l’orfano e per la vedova. Ricordati che sei stato schiavo nella terra d’Egitto» (Dt 24,21-22)._
 
 Nel Nuovo Testamento risuona con forza l’appello all’amore fraterno:
 
-«Tutta la Legge infatti trova la sua pienezza in un solo precetto: Amerai il tuo prossimo come te stesso» (Gal 5,14).
+_«Tutta la Legge infatti trova la sua pienezza in un solo precetto: Amerai il tuo prossimo come te stesso» (Gal 5,14)._
 
-«Chi ama suo fratello, rimane nella luce e non vi è in lui occasione d’inciampo. Ma chi odia suo fratello, è nelle tenebre» (1 Gv 2,10-11).
+_«Chi ama suo fratello, rimane nella luce e non vi è in lui occasione d’inciampo. Ma chi odia suo fratello, è nelle tenebre» (1 Gv 2,10-11)._
 
-«Noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli. Chi non ama rimane nella morte» (1 Gv 3,14).
+_«Noi sappiamo che siamo passati dalla morte alla vita, perché amiamo i fratelli. Chi non ama rimane nella morte» (1 Gv 3,14)._
 
-«Chi infatti non ama il proprio fratello che vede, non può amare Dio che non vede» (1 Gv 4,20).
+_«Chi infatti non ama il proprio fratello che vede, non può amare Dio che non vede» (1 Gv 4,20)._
 
 62. Anche questa proposta di amore poteva essere fraintesa. Non per nulla, davanti alla tentazione delle prime comunità cristiane di formare gruppi chiusi e isolati, San Paolo esortava i suoi discepoli ad avere carità tra di loro «e verso tutti» (1 Ts 3,12); e nella comunità di Giovanni si chiedeva che fossero accolti bene i «fratelli, benché stranieri» (3 Gv 5). Tale contesto aiuta a comprendere il valore della parabola del buon samaritano: all’amore non importa se il fratello ferito viene da qui o da là. Perché è l’«amore che rompe le catene che ci isolano e ci separano, gettando ponti; amore che ci permette di costruire una grande famiglia in cui tutti possiamo sentirci a casa […]. Amore che sa di compassione e di dignità».[56]
 
