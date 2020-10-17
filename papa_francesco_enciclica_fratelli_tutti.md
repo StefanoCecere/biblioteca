@@ -11,6 +11,15 @@ LETTERA ENCICLICA
 DEL SANTO PADRE FRANCESCO  
 SULLA FRATERNITÀ E L'AMICIZIA SOCIALE  
 
+<details open markdown="block">
+  <summary>
+    Indice
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 1. «Fratelli tutti»,[^1] scriveva San Francesco d’Assisi per rivolgersi a tutti i fratelli e le sorelle e proporre loro una forma di vita dal sapore di Vangelo. Tra i suoi consigli voglio evidenziarne uno, nel quale invita a un amore che va al di là delle barriere della geografia e dello spazio. Qui egli dichiara beato colui che ama l’altro «quando fosse lontano da lui, quanto se fosse accanto a lui».[^2] Con queste poche e semplici parole ha spiegato l’essenziale di una fraternità aperta, che permette di riconoscere, apprezzare e amare ogni persona al di là della vicinanza fisica, al di là del luogo del mondo dove è nata o dove abita.
 
 2. Questo Santo dell’amore fraterno, della semplicità e della gioia, che mi ha ispirato a scrivere l’Enciclica [Laudato si’](http://w2.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html), nuovamente mi motiva a dedicare questa nuova Enciclica alla fraternità e all’amicizia sociale. Infatti San Francesco, che si sentiva fratello del sole, del mare e del vento, sapeva di essere ancora più unito a quelli che erano della sua stessa carne. Dappertutto seminò pace e camminò accanto ai poveri, agli abbandonati, ai malati, agli scartati, agli ultimi.
@@ -850,6 +859,6 @@ Francesco
 
 ---
 
-[1]: Ammonizioni, 6, 1: FF 155.
+[^1]: Ammonizioni, 6, 1: FF 155.
 
-[2]: Ibid., 25: FF 175.
+[^2]: Ibid., 25: FF 175.
