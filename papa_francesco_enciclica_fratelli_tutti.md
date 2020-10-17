@@ -1,16 +1,17 @@
 ---
 title: Fratelli Tutti
+has_toc: true
 author: Papa Francesco
 date: 201003
 original: http://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html
 ---
 
 # FRATELLI TUTTI
-LETTERA ENCICLICA
-DEL SANTO PADRE FRANCESCO
-SULLA FRATERNITÀ E L'AMICIZIA SOCIALE
+LETTERA ENCICLICA  
+DEL SANTO PADRE FRANCESCO  
+SULLA FRATERNITÀ E L'AMICIZIA SOCIALE  
 
-1. «Fratelli tutti»,[1] scriveva San Francesco d’Assisi per rivolgersi a tutti i fratelli e le sorelle e proporre loro una forma di vita dal sapore di Vangelo. Tra i suoi consigli voglio evidenziarne uno, nel quale invita a un amore che va al di là delle barriere della geografia e dello spazio. Qui egli dichiara beato colui che ama l’altro «quando fosse lontano da lui, quanto se fosse accanto a lui».[2] Con queste poche e semplici parole ha spiegato l’essenziale di una fraternità aperta, che permette di riconoscere, apprezzare e amare ogni persona al di là della vicinanza fisica, al di là del luogo del mondo dove è nata o dove abita.
+1. «Fratelli tutti»,[^1] scriveva San Francesco d’Assisi per rivolgersi a tutti i fratelli e le sorelle e proporre loro una forma di vita dal sapore di Vangelo. Tra i suoi consigli voglio evidenziarne uno, nel quale invita a un amore che va al di là delle barriere della geografia e dello spazio. Qui egli dichiara beato colui che ama l’altro «quando fosse lontano da lui, quanto se fosse accanto a lui».[^2] Con queste poche e semplici parole ha spiegato l’essenziale di una fraternità aperta, che permette di riconoscere, apprezzare e amare ogni persona al di là della vicinanza fisica, al di là del luogo del mondo dove è nata o dove abita.
 
 2. Questo Santo dell’amore fraterno, della semplicità e della gioia, che mi ha ispirato a scrivere l’Enciclica [Laudato si’](http://w2.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html), nuovamente mi motiva a dedicare questa nuova Enciclica alla fraternità e all’amicizia sociale. Infatti San Francesco, che si sentiva fratello del sole, del mare e del vento, sapeva di essere ancora più unito a quelli che erano della sua stessa carne. Dappertutto seminò pace e camminò accanto ai poveri, agli abbandonati, ai malati, agli scartati, agli ultimi.
 
@@ -846,3 +847,9 @@ della stessa umanità amata da Dio. Amen.
 Dato ad Assisi, presso la tomba di San Francesco, il 3 ottobre, vigilia della Festa del Poverello, dell’anno 2020, ottavo del mio Pontificato
 
 Francesco
+
+---
+
+[1]: Ammonizioni, 6, 1: FF 155.
+
+[2]: Ibid., 25: FF 175.
